@@ -189,7 +189,7 @@ public class Ball : MonoBehaviour
 ~~~
  
  ## Output:
- ![img](https://github.com/vijay21500269/PingPongGame/blob/main/Exp3.png)
+![Exp3](https://github.com/vijay21500269/PingPongGame/assets/94381788/a70b8e57-c21e-4038-8b23-74c4cdeb828c)
  
  ## Result:
 Thus, a ping pong game was developed using C# program in unity .
